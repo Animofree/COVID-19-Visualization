@@ -1,0 +1,103 @@
+2020-04-19 20:01:05,292 - main.py[line:93] - INFO: Server Start...
+2020-04-19 20:04:10,222 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:04:10,226 - dxy_record.py[line:126] - INFO: New data lines count:13
+2020-04-19 20:04:10,233 - dxy_record.py[line:128] - INFO: 1	 内蒙古自治区  finished!
+2020-04-19 20:04:13,484 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:04:13,484 - dxy_record.py[line:126] - INFO: New data lines count:0
+2020-04-19 20:04:13,484 - dxy_record.py[line:128] - INFO: 2	 河南省  finished!
+2020-04-19 20:04:16,742 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:04:16,743 - dxy_record.py[line:126] - INFO: New data lines count:22
+2020-04-19 20:04:16,749 - dxy_record.py[line:128] - INFO: 3	 广东省  finished!
+2020-04-19 20:04:19,996 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:04:19,996 - dxy_record.py[line:126] - INFO: New data lines count:15
+2020-04-19 20:04:20,011 - dxy_record.py[line:128] - INFO: 4	 黑龙江省  finished!
+2020-04-19 20:04:23,462 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:04:23,462 - dxy_record.py[line:126] - INFO: New data lines count:0
+2020-04-19 20:04:23,462 - dxy_record.py[line:128] - INFO: 5	 新疆维吾尔自治区  finished!
+2020-04-19 20:04:27,058 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:04:27,059 - dxy_record.py[line:126] - INFO: New data lines count:18
+2020-04-19 20:04:27,066 - dxy_record.py[line:128] - INFO: 6	 湖北省  finished!
+2020-04-19 20:04:30,394 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:04:30,394 - dxy_record.py[line:126] - INFO: New data lines count:16
+2020-04-19 20:04:30,401 - dxy_record.py[line:128] - INFO: 7	 辽宁省  finished!
+2020-04-19 20:04:33,635 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:04:33,636 - dxy_record.py[line:126] - INFO: New data lines count:17
+2020-04-19 20:04:33,641 - dxy_record.py[line:128] - INFO: 8	 山东省  finished!
+2020-04-19 20:04:36,892 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:04:36,893 - dxy_record.py[line:126] - INFO: New data lines count:0
+2020-04-19 20:04:36,893 - dxy_record.py[line:128] - INFO: 9	 江苏省  finished!
+2020-04-19 20:04:40,120 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:04:40,120 - dxy_record.py[line:126] - INFO: New data lines count:0
+2020-04-19 20:04:40,121 - dxy_record.py[line:128] - INFO: 10	 陕西省  finished!
+2020-04-19 20:04:43,366 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:04:43,366 - dxy_record.py[line:126] - INFO: New data lines count:20
+2020-04-19 20:04:43,384 - dxy_record.py[line:128] - INFO: 11	 上海市  finished!
+2020-04-19 20:04:46,612 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:04:46,612 - dxy_record.py[line:126] - INFO: New data lines count:11
+2020-04-19 20:04:46,616 - dxy_record.py[line:128] - INFO: 12	 贵州省  finished!
+2020-04-19 20:04:49,877 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:04:49,877 - dxy_record.py[line:126] - INFO: New data lines count:0
+2020-04-19 20:04:49,877 - dxy_record.py[line:128] - INFO: 13	 重庆市  finished!
+2020-04-19 20:04:53,243 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:04:53,243 - dxy_record.py[line:126] - INFO: New data lines count:0
+2020-04-19 20:04:53,243 - dxy_record.py[line:128] - INFO: 14	 西藏自治区  finished!
+2020-04-19 20:04:56,480 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:04:56,480 - dxy_record.py[line:126] - INFO: New data lines count:0
+2020-04-19 20:04:56,480 - dxy_record.py[line:128] - INFO: 15	 安徽省  finished!
+2020-04-19 20:04:59,717 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:04:59,718 - dxy_record.py[line:126] - INFO: New data lines count:11
+2020-04-19 20:04:59,721 - dxy_record.py[line:128] - INFO: 16	 福建省  finished!
+2020-04-19 20:05:02,983 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:02,983 - dxy_record.py[line:126] - INFO: New data lines count:16
+2020-04-19 20:05:02,989 - dxy_record.py[line:128] - INFO: 17	 湖南省  finished!
+2020-04-19 20:05:06,327 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:06,327 - dxy_record.py[line:126] - INFO: New data lines count:0
+2020-04-19 20:05:06,327 - dxy_record.py[line:128] - INFO: 18	 海南省  finished!
+2020-04-19 20:05:09,576 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:09,576 - dxy_record.py[line:126] - INFO: New data lines count:0
+2020-04-19 20:05:09,576 - dxy_record.py[line:128] - INFO: 19	 青海省  finished!
+2020-04-19 20:05:12,809 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:12,810 - dxy_record.py[line:126] - INFO: New data lines count:0
+2020-04-19 20:05:12,810 - dxy_record.py[line:128] - INFO: 20	 广西壮族自治区  finished!
+2020-04-19 20:05:16,035 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:16,035 - dxy_record.py[line:126] - INFO: New data lines count:0
+2020-04-19 20:05:16,036 - dxy_record.py[line:128] - INFO: 21	 宁夏回族自治区  finished!
+2020-04-19 20:05:19,275 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:19,275 - dxy_record.py[line:126] - INFO: New data lines count:0
+2020-04-19 20:05:19,276 - dxy_record.py[line:128] - INFO: 22	 江西省  finished!
+2020-04-19 20:05:22,524 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:22,524 - dxy_record.py[line:126] - INFO: New data lines count:14
+2020-04-19 20:05:22,542 - dxy_record.py[line:128] - INFO: 23	 浙江省  finished!
+2020-04-19 20:05:25,796 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:25,796 - dxy_record.py[line:126] - INFO: New data lines count:0
+2020-04-19 20:05:25,797 - dxy_record.py[line:128] - INFO: 24	 河北省  finished!
+2020-04-19 20:05:29,140 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:29,140 - dxy_record.py[line:126] - INFO: New data lines count:1
+2020-04-19 20:05:29,153 - dxy_record.py[line:128] - INFO: 25	 香港特别行政区  finished!
+2020-04-19 20:05:32,390 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:32,390 - dxy_record.py[line:126] - INFO: New data lines count:1
+2020-04-19 20:05:32,392 - dxy_record.py[line:128] - INFO: 26	 澳门特别行政区  finished!
+2020-04-19 20:05:35,622 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:35,622 - dxy_record.py[line:126] - INFO: New data lines count:1
+2020-04-19 20:05:35,634 - dxy_record.py[line:128] - INFO: 27	 台湾省  finished!
+2020-04-19 20:05:38,877 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:38,878 - dxy_record.py[line:126] - INFO: New data lines count:0
+2020-04-19 20:05:38,878 - dxy_record.py[line:128] - INFO: 28	 甘肃省  finished!
+2020-04-19 20:05:42,120 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:42,120 - dxy_record.py[line:126] - INFO: New data lines count:22
+2020-04-19 20:05:42,127 - dxy_record.py[line:128] - INFO: 29	 四川省  finished!
+2020-04-19 20:05:45,354 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:45,355 - dxy_record.py[line:126] - INFO: New data lines count:11
+2020-04-19 20:05:45,359 - dxy_record.py[line:128] - INFO: 30	 吉林省  finished!
+2020-04-19 20:05:48,607 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:48,607 - dxy_record.py[line:126] - INFO: New data lines count:17
+2020-04-19 20:05:48,623 - dxy_record.py[line:128] - INFO: 31	 天津市  finished!
+2020-04-19 20:05:51,860 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:51,860 - dxy_record.py[line:126] - INFO: New data lines count:16
+2020-04-19 20:05:51,876 - dxy_record.py[line:128] - INFO: 32	 云南省  finished!
+2020-04-19 20:05:55,102 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:55,103 - dxy_record.py[line:126] - INFO: New data lines count:19
+2020-04-19 20:05:55,109 - dxy_record.py[line:128] - INFO: 33	 北京市  finished!
+2020-04-19 20:05:58,393 - dxy_record.py[line:114] - INFO: Get data collects count:1
+2020-04-19 20:05:58,393 - dxy_record.py[line:126] - INFO: New data lines count:0
+2020-04-19 20:05:58,394 - dxy_record.py[line:128] - INFO: 34	 山西省  finished!
